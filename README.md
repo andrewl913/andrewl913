@@ -1,5 +1,5 @@
 - 👋 Hi, I’m andrew
 - 👀 I’m interested in building applications, architecting microservices, thinking about what I should name my variables.
-- 🌱 I mainly working with NodeJS.
+- 🌱 I mainly work
 -  GraphQL is my interop of choice. Typescript is my favorite flavor of ECMAscript.
 - 📫 How to reach me: andrewl913@yahoo.com 
