@@ -1,5 +1,4 @@
 - 👋 Hi, I’m andrew
-- 👀 I’m interested in building applications, architecting microservices, thinking about what I should name my variables.
-- 🌱 I mainly work
--  GraphQL is my interop of choice. Typescript is my favorite flavor of ECMAscript.
+- 👀 I’m interested in building applications, architecting microservices, and thinking about what I should name my variables.
+-  GraphQL is my interop of choice. Typescript is my favorite flavor of ECMAScript.
 - 📫 How to reach me: andrewl913@yahoo.com 
