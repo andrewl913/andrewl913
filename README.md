@@ -1,2 +1,2 @@
 - 👋 Hi, I’m andrew
-- 👀 I’m interested in building applications and thinking about what I should name my variables.
+- 👀 I build applications and think about what I should name my variables.
